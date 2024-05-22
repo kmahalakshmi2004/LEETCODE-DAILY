@@ -1,2 +1,2 @@
-# LEETCODE-DAILY
-Daily Challenges!!
+# LEETCODE-DAILYS!!
+Solving|Consistency
