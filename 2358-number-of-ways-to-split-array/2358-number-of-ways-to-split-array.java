@@ -1,17 +1,17 @@
 class Solution {
     public int waysToSplitArray(int[] nums) {
-        long leftSum = 0, rightSum = 0;
-        for (int num : nums) {
-            rightSum += num;
+        long totalsum=0;
+        for(int num:nums){
+            totalsum+=num;
         }
-        int validSplits = 0;
-        for (int i = 0; i < nums.length - 1; i++) {
-            leftSum += nums[i];
-            rightSum -= nums[i];
-            if (leftSum >= rightSum) {
-                validSplits++;
+        long prefixsum=0;
+        int count=0;
+        for(int i=0;i<nums.length-1;i++){
+            prefixsum+=nums[i];
+            if(prefixsum>=totalsum-prefixsum){
+                count++;
             }
         }
-        return validSplits;
+        return count;
     }
 }
