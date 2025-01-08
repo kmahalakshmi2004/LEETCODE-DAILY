@@ -11,6 +11,7 @@ Solving|Consistency
 | [1524-string-matching-in-an-array](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1524-string-matching-in-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ Solving|Consistency
 | [1524-string-matching-in-an-array](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -39,4 +41,17 @@ Solving|Consistency
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
