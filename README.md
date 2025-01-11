@@ -17,6 +17,7 @@ Solving|Consistency
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0001-two-sum) |
+| [1502-construct-k-palindrome-strings](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1502-construct-k-palindrome-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,6 +29,7 @@ Solving|Consistency
 ## String
 |  |
 | ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -57,4 +59,12 @@ Solving|Consistency
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Greedy
+|  |
+| ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1502-construct-k-palindrome-strings) |
+## Counting
+|  |
+| ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1502-construct-k-palindrome-strings) |
 <!---LeetCode Topics End-->
