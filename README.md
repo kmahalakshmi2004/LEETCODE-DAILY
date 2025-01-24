@@ -90,10 +90,12 @@ Solving|Consistency
 ## Breadth-First Search
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Graph
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -107,4 +109,12 @@ Solving|Consistency
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Depth-First Search
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0820-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
