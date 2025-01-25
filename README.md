@@ -15,6 +15,7 @@ Solving|Consistency
 | [2691-count-vowel-strings-in-ranges](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2792-neighboring-bitwise-xor) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
 |  |
@@ -31,6 +32,7 @@ Solving|Consistency
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0088-merge-sorted-array) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## String
 |  |
 | ------- |
@@ -117,4 +119,8 @@ Solving|Consistency
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0820-find-eventual-safe-states) |
+## Union Find
+|  |
+| ------- |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
