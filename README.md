@@ -27,6 +27,7 @@ Solving|Consistency
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0001-two-sum) |
+| [1160-letter-tile-possibilities](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -43,6 +44,7 @@ Solving|Consistency
 ## String
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -86,6 +88,7 @@ Solving|Consistency
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -148,4 +151,8 @@ Solving|Consistency
 | ------- |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3447-clear-digits) |
+## Backtracking
+|  |
+| ------- |
+| [1160-letter-tile-possibilities](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1160-letter-tile-possibilities) |
 <!---LeetCode Topics End-->
