@@ -8,6 +8,7 @@ Solving|Consistency
 | ------- |
 | [0001-two-sum](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0268-missing-number) |
 | [0854-making-a-large-island](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0854-making-a-large-island) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1524-string-matching-in-an-array) |
@@ -27,6 +28,7 @@ Solving|Consistency
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0268-missing-number) |
 | [1160-letter-tile-possibilities](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -40,6 +42,7 @@ Solving|Consistency
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0268-missing-number) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## String
 |  |
@@ -101,6 +104,7 @@ Solving|Consistency
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0268-missing-number) |
 | [2509-minimize-xor](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2792-neighboring-bitwise-xor) |
@@ -157,4 +161,12 @@ Solving|Consistency
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
