@@ -177,6 +177,7 @@ Solving|Consistency
 | ------- |
 | [0268-missing-number](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0268-missing-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2649-count-total-number-of-colored-cells](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2649-count-total-number-of-colored-cells) |
 ## Binary Search
 |  |
 | ------- |
