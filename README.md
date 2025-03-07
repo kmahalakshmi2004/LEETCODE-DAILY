@@ -177,6 +177,7 @@ Solving|Consistency
 | ------- |
 | [0268-missing-number](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0268-missing-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2610-closest-prime-numbers-in-range](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2649-count-total-number-of-colored-cells) |
 ## Binary Search
 |  |
@@ -187,4 +188,8 @@ Solving|Consistency
 | ------- |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
