@@ -16,6 +16,7 @@ Solving|Consistency
 | [1524-string-matching-in-an-array](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1524-string-matching-in-an-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2262-solving-questions-with-brainpower](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2308-divide-array-into-equal-pairs) |
@@ -200,6 +201,7 @@ Solving|Consistency
 | ------- |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2262-solving-questions-with-brainpower](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2262-solving-questions-with-brainpower) |
 ## Number Theory
 |  |
 | ------- |
