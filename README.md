@@ -43,6 +43,7 @@ Solving|Consistency
 | [0268-missing-number](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0268-missing-number) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1160-letter-tile-possibilities) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1502-construct-k-palindrome-strings](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2308-divide-array-into-equal-pairs) |
@@ -138,6 +139,7 @@ Solving|Consistency
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0854-making-a-large-island) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
@@ -165,6 +167,7 @@ Solving|Consistency
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0854-making-a-large-island) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Topological Sort
 |  |
@@ -216,4 +219,12 @@ Solving|Consistency
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2478-longest-nice-subarray) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+## Tree
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Binary Tree
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->
