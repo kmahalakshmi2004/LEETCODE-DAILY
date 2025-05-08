@@ -9,6 +9,7 @@ Solving|Consistency
 | [0001-two-sum](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -120,6 +121,7 @@ Solving|Consistency
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1502-construct-k-palindrome-strings](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -226,6 +228,7 @@ Solving|Consistency
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0905-length-of-longest-fibonacci-subsequence) |
