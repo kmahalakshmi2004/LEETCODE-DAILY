@@ -18,6 +18,7 @@ Solving|Consistency
 | [0136-single-number](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0274-h-index) |
 | [0854-making-a-large-island](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -77,6 +78,7 @@ Solving|Consistency
 | [0088-merge-sorted-array](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0274-h-index) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## String
 |  |
@@ -271,4 +273,8 @@ Solving|Consistency
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0169-majority-element) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
