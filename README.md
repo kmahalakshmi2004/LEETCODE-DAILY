@@ -19,6 +19,7 @@ Solving|Consistency
 | [0169-majority-element](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0380-insert-delete-getrandom-o1) |
 | [0854-making-a-large-island](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -52,6 +53,7 @@ Solving|Consistency
 | [0001-two-sum](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0380-insert-delete-getrandom-o1) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -217,6 +219,7 @@ Solving|Consistency
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0380-insert-delete-getrandom-o1) |
 | [1500-count-largest-group](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1500-count-largest-group) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -277,4 +280,12 @@ Solving|Consistency
 |  |
 | ------- |
 | [0274-h-index](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
