@@ -86,6 +86,7 @@ Solving|Consistency
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0008-string-to-integer-atoi) |
 | [0058-length-of-last-word](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0058-length-of-last-word) |
 | [1160-letter-tile-possibilities](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1502-construct-k-palindrome-strings) |
