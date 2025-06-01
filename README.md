@@ -71,6 +71,7 @@ Solving|Consistency
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0088-merge-sorted-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -87,6 +88,7 @@ Solving|Consistency
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0008-string-to-integer-atoi) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0058-length-of-last-word) |
 | [1160-letter-tile-possibilities](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1502-construct-k-palindrome-strings) |
@@ -111,6 +113,7 @@ Solving|Consistency
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1524-string-matching-in-an-array](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3309-count-prefix-and-suffix-pairs-i) |
