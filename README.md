@@ -7,6 +7,7 @@ Solving|Consistency
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0045-jump-game-ii) |
@@ -71,6 +72,7 @@ Solving|Consistency
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -80,6 +82,7 @@ Solving|Consistency
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0268-missing-number) |
