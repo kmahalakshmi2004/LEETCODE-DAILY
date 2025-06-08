@@ -131,6 +131,7 @@ Solving|Consistency
 ## Trie
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0386-lexicographical-numbers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
@@ -212,6 +213,7 @@ Solving|Consistency
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0386-lexicographical-numbers) |
 | [0820-find-eventual-safe-states](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0854-making-a-large-island) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
