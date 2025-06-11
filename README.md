@@ -116,6 +116,7 @@ Solving|Consistency
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -123,6 +124,7 @@ Solving|Consistency
 | [1537-maximum-score-after-splitting-a-string](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -284,6 +286,7 @@ Solving|Consistency
 | [2478-longest-nice-subarray](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2478-longest-nice-subarray) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Tree
 |  |
 | ------- |
@@ -302,6 +305,7 @@ Solving|Consistency
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
