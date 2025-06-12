@@ -50,6 +50,7 @@ Solving|Consistency
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3429-special-array-i) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
 | ------- |
