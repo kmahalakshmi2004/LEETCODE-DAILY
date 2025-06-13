@@ -39,6 +39,7 @@ Solving|Consistency
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2792-neighboring-bitwise-xor) |
@@ -158,6 +159,7 @@ Solving|Consistency
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Counting
 |  |
@@ -264,6 +266,7 @@ Solving|Consistency
 | [0035-search-insert-position](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0268-missing-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
