@@ -34,6 +34,7 @@ Solving|Consistency
 | [2265-partition-array-according-to-given-pivot](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2308-divide-array-into-equal-pairs) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2358-number-of-ways-to-split-array) |
 | [2478-longest-nice-subarray](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2478-longest-nice-subarray) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -83,6 +84,7 @@ Solving|Consistency
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0088-merge-sorted-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sorting
