@@ -109,6 +109,7 @@ Solving|Consistency
 | [1524-string-matching-in-an-array](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -160,6 +161,7 @@ Solving|Consistency
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0134-gas-station) |
 | [1502-construct-k-palindrome-strings](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1502-construct-k-palindrome-strings) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2509-minimize-xor](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2509-minimize-xor) |
@@ -173,6 +175,7 @@ Solving|Consistency
 | [1160-letter-tile-possibilities](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -254,6 +257,7 @@ Solving|Consistency
 | [1160-letter-tile-possibilities](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Math
 |  |
 | ------- |
@@ -315,6 +319,7 @@ Solving|Consistency
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Divide and Conquer
