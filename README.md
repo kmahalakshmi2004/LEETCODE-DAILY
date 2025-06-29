@@ -27,6 +27,7 @@ Solving|Consistency
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1524-string-matching-in-an-array) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -86,6 +87,7 @@ Solving|Consistency
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0088-merge-sorted-array) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -98,6 +100,7 @@ Solving|Consistency
 | [0169-majority-element](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0274-h-index) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## String
@@ -278,6 +281,7 @@ Solving|Consistency
 | ------- |
 | [0035-search-insert-position](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0268-missing-number) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
