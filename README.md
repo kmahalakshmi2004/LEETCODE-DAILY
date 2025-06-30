@@ -23,6 +23,7 @@ Solving|Consistency
 | [0274-h-index](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0274-h-index) |
 | [0303-range-sum-query-immutable](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0380-insert-delete-getrandom-o1) |
+| [0594-longest-harmonious-subsequence](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0594-longest-harmonious-subsequence) |
 | [0854-making-a-large-island](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -63,6 +64,7 @@ Solving|Consistency
 | [0169-majority-element](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0380-insert-delete-getrandom-o1) |
+| [0594-longest-harmonious-subsequence](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0594-longest-harmonious-subsequence) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -100,6 +102,7 @@ Solving|Consistency
 | [0169-majority-element](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0274-h-index) |
+| [0594-longest-harmonious-subsequence](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -178,6 +181,7 @@ Solving|Consistency
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0594-longest-harmonious-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -305,6 +309,7 @@ Solving|Consistency
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0594-longest-harmonious-subsequence) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2478-longest-nice-subarray) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2856-count-complete-subarrays-in-an-array) |
