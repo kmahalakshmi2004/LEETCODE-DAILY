@@ -211,6 +211,7 @@ Solving|Consistency
 | [2509-minimize-xor](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2792-neighboring-bitwise-xor) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -265,6 +266,7 @@ Solving|Consistency
 | [2265-partition-array-according-to-given-pivot](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3447-clear-digits) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -283,6 +285,7 @@ Solving|Consistency
 | [2415-count-the-number-of-ideal-arrays](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2649-count-total-number-of-colored-cells) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -364,6 +367,7 @@ Solving|Consistency
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0021-merge-two-sorted-lists) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
 | ------- |
