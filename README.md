@@ -33,6 +33,7 @@ Solving|Consistency
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2262-solving-questions-with-brainpower](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2262-solving-questions-with-brainpower) |
@@ -73,6 +74,7 @@ Solving|Consistency
 | [1502-construct-k-palindrome-strings](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2308-divide-array-into-equal-pairs) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -358,6 +360,7 @@ Solving|Consistency
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0380-insert-delete-getrandom-o1) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Randomized
 |  |
 | ------- |
