@@ -26,6 +26,7 @@ Solving|Consistency
 | [0594-longest-harmonious-subsequence](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0594-longest-harmonious-subsequence) |
 | [0854-making-a-large-island](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1524-string-matching-in-an-array) |
@@ -107,6 +108,7 @@ Solving|Consistency
 | [0268-missing-number](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0274-h-index) |
 | [0594-longest-harmonious-subsequence](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0594-longest-harmonious-subsequence) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -176,6 +178,7 @@ Solving|Consistency
 | [0055-jump-game](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0134-gas-station) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1502-construct-k-palindrome-strings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -233,6 +236,7 @@ Solving|Consistency
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
