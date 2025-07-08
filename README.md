@@ -32,6 +32,7 @@ Solving|Consistency
 | [1524-string-matching-in-an-array](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1524-string-matching-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -110,6 +111,7 @@ Solving|Consistency
 | [0594-longest-harmonious-subsequence](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0594-longest-harmonious-subsequence) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## String
@@ -301,6 +303,7 @@ Solving|Consistency
 | [0035-search-insert-position](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0268-missing-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -313,6 +316,7 @@ Solving|Consistency
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2262-solving-questions-with-brainpower](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2262-solving-questions-with-brainpower) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2415-count-the-number-of-ideal-arrays) |
