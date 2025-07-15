@@ -142,6 +142,7 @@ Solving|Consistency
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3396-valid-word](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3455-minimum-length-of-string-after-operations) |
