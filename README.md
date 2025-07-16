@@ -62,6 +62,7 @@ Solving|Consistency
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3429-special-array-i) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -336,6 +337,7 @@ Solving|Consistency
 | [2262-solving-questions-with-brainpower](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2262-solving-questions-with-brainpower) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3618-find-the-original-typed-string-ii) |
 ## Number Theory
 |  |
