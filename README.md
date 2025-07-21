@@ -132,6 +132,7 @@ Solving|Consistency
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0058-length-of-last-word) |
 | [1160-letter-tile-possibilities](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1160-letter-tile-possibilities) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1502-construct-k-palindrome-strings](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
