@@ -69,6 +69,7 @@ Solving|Consistency
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Hash Table
 |  |
 | ------- |
@@ -169,6 +170,7 @@ Solving|Consistency
 | [2691-count-vowel-strings-in-ranges](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3618-find-the-original-typed-string-ii](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3618-find-the-original-typed-string-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## String Matching
 |  |
 | ------- |
@@ -388,6 +390,7 @@ Solving|Consistency
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -421,4 +424,8 @@ Solving|Consistency
 | ------- |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Segment Tree
+|  |
+| ------- |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 <!---LeetCode Topics End-->
