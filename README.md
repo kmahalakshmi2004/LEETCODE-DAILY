@@ -49,6 +49,7 @@ Solving|Consistency
 | [2478-longest-nice-subarray](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2478-longest-nice-subarray) |
 | [2479-meeting-rooms-iii](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -246,6 +247,7 @@ Solving|Consistency
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2478-longest-nice-subarray) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2792-neighboring-bitwise-xor) |
@@ -431,4 +433,8 @@ Solving|Consistency
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
