@@ -71,6 +71,7 @@ Solving|Consistency
 | [3429-special-array-i](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3429-special-array-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -291,6 +292,7 @@ Solving|Consistency
 | [0854-making-a-large-island](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0854-making-a-large-island) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Shortest Path
 |  |
 | ------- |
@@ -375,6 +377,7 @@ Solving|Consistency
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3618-find-the-original-typed-string-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Number Theory
 |  |
 | ------- |
