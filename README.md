@@ -254,6 +254,7 @@ Solving|Consistency
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0268-missing-number) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -335,6 +336,7 @@ Solving|Consistency
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0380-insert-delete-getrandom-o1) |
 | [0826-soup-servings](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0826-soup-servings) |
@@ -446,6 +448,7 @@ Solving|Consistency
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0231-power-of-two) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
