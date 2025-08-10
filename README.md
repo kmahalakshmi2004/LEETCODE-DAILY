@@ -87,6 +87,7 @@ Solving|Consistency
 | [0268-missing-number](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0380-insert-delete-getrandom-o1) |
 | [0594-longest-harmonious-subsequence](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0940-fruit-into-baskets) |
 | [1160-letter-tile-possibilities](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1160-letter-tile-possibilities) |
@@ -132,6 +133,7 @@ Solving|Consistency
 | [0268-missing-number](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0274-h-index) |
 | [0594-longest-harmonious-subsequence](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0900-reordered-power-of-2) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -233,6 +235,7 @@ Solving|Consistency
 | ------- |
 | [0169-majority-element](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0900-reordered-power-of-2) |
 | [1160-letter-tile-possibilities](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -340,6 +343,7 @@ Solving|Consistency
 | [0268-missing-number](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0380-insert-delete-getrandom-o1) |
 | [0826-soup-servings](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1500-count-largest-group](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1500-count-largest-group) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -415,6 +419,7 @@ Solving|Consistency
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0900-reordered-power-of-2) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
