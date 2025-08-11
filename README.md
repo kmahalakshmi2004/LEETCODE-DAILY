@@ -53,6 +53,7 @@ Solving|Consistency
 | [2479-meeting-rooms-iii](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2529-range-product-queries-of-powers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2689-rearranging-fruits](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2689-rearranging-fruits) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -182,6 +183,7 @@ Solving|Consistency
 | [1537-maximum-score-after-splitting-a-string](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2358-number-of-ways-to-split-array](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2358-number-of-ways-to-split-array) |
+| [2529-range-product-queries-of-powers](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2529-range-product-queries-of-powers) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3618-find-the-original-typed-string-ii](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3618-find-the-original-typed-string-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -265,6 +267,7 @@ Solving|Consistency
 | [2478-longest-nice-subarray](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2478-longest-nice-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2509-minimize-xor) |
+| [2529-range-product-queries-of-powers](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2529-range-product-queries-of-powers) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2792-neighboring-bitwise-xor) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3600-find-the-k-th-character-in-string-game-i) |
