@@ -385,6 +385,7 @@ Solving|Consistency
 | [2262-solving-questions-with-brainpower](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2262-solving-questions-with-brainpower) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/3618-find-the-original-typed-string-ii) |
