@@ -161,6 +161,7 @@ Solving|Consistency
 | [2140-longest-subsequence-repeated-k-times](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
