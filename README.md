@@ -351,6 +351,7 @@ Solving|Consistency
 | [0342-power-of-four](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0380-insert-delete-getrandom-o1) |
 | [0826-soup-servings](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1448-maximum-69-number) |
@@ -383,6 +384,7 @@ Solving|Consistency
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0826-soup-servings](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0867-new-21-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -405,6 +407,7 @@ Solving|Consistency
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0594-longest-harmonious-subsequence) |
+| [0867-new-21-game](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -491,4 +494,5 @@ Solving|Consistency
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
