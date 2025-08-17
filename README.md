@@ -218,6 +218,7 @@ Solving|Consistency
 | [0055-jump-game](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0134-gas-station) |
+| [1448-maximum-69-number](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1502-construct-k-palindrome-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -352,6 +353,7 @@ Solving|Consistency
 | [0826-soup-servings](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1500-count-largest-group) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1993-sum-of-all-subset-xor-totals) |
