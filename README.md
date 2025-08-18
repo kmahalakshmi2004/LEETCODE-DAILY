@@ -25,6 +25,7 @@ Solving|Consistency
 | [0303-range-sum-query-immutable](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0380-insert-delete-getrandom-o1) |
 | [0594-longest-harmonious-subsequence](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0594-longest-harmonious-subsequence) |
+| [0679-24-game](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0679-24-game) |
 | [0854-making-a-large-island](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -338,6 +339,7 @@ Solving|Consistency
 ## Backtracking
 |  |
 | ------- |
+| [0679-24-game](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -350,6 +352,7 @@ Solving|Consistency
 | [0326-power-of-three](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0380-insert-delete-getrandom-o1) |
+| [0679-24-game](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/kmahalakshmi2004/LEETCODE-DAILY/tree/master/0900-reordered-power-of-2) |
